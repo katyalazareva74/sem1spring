@@ -1,6 +1,6 @@
-package service;
+package homework.service;
 
-import model.Person;
+import homework.model.Person;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 

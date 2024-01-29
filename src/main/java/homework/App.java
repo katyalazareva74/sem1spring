@@ -1,7 +1,7 @@
 package homework;
 
-import model.Person;
-import service.InputOutput;
+import homework.model.Person;
+import homework.service.InputOutput;
 
 public class App {
     public static void main(String[] args) {
